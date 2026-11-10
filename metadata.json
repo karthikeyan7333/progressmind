@@ -1,0 +1,6 @@
+{
+  "name": "ProgressMind",
+  "description": "Improve Today, Grow Forever - Minimalist habit-tracking application with streak tracking, analytics, journal, and routines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
